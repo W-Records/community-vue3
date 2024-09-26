@@ -1,0 +1,29 @@
+{
+  "name": "myjuejin-vue3project",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "axios": "^1.6.8",
+    "element-plus": "^2.6.3",
+    "mitt": "^3.0.1",
+    "pinia": "^2.1.7",
+    "pinia-persistedstate-plugin": "^0.1.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@types/vue": "^2.0.0",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "typescript": "^5.4.5",
+    "vite": "^5.1.6"
+  }
+}
